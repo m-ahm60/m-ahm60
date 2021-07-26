@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-ahm60
 - 👀 I’m interested in FLutter Development  
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on You
+- 💞️ I’m looking to collaborate with You
 - 📫 Please don't try to contact me
 
 <!---
